@@ -1,0 +1,9 @@
+[package]
+name = "imgui-test"
+version = "0.1.0"
+authors = ["Matt Stavola <mstavola9@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+amethyst-imgui = { version = "0.1.0" }
+amethyst = { version = "0.10" }
